@@ -1,54 +1,42 @@
-# learning-journey
-My code archive for Dr. Abu Hadhoud’s 24-course roadmap — step-by-step exercises across C++, algorithms, OOP, C#, databases &amp; practical projects.
 # 🚀 Learning Journey — Dr. Abu Hadhoud’s 24-Course Roadmap
 
 Welcome! 👋  
-This repository documents my complete programming roadmap following **Dr. Mohamed Abou Hadhoud** on [ProgrammingAdvices]([https://programmingadvices.com/](https://programmingadvices.com/p/roadmap)).  
+This repository documents my complete programming roadmap following **Dr. Mohamed Abou Hadhoud** on [ProgrammingAdvices](https://programmingadvices.com/p/roadmap).  
 It contains **24 structured courses** that take me step by step from basics to advanced problem solving and real projects.
-
----
-
-# 🚀 Learning Journey — Dr. Abu Hadhoud’s 24-Course Roadmap
-
-This repository contains my complete programming roadmap following **Dr. Mohamed Abou Hadhoud** on ProgrammingAdvices, covering 24 structured courses from beginner to advanced (C++, algorithms, OOP, C#, databases, projects).
 
 ---
 
 ## 📘 Course List & Navigation
 
-| #   | Course Title                                          | View |
-|-----|------------------------------------------------------|------|
-| 01  | Programming Foundations - Level 1                     | [Open](./01-Programming-Foundations-Level1) |
-| 02  | Algorithms & Problem-Solving Level 1                  | [Open](./02-Algorithms-Problem-Solving-Level1) |
-| 03  | Programming Using C++ - Level 1                       | [Open](./03-Programming-Using-Cpp-Level1) |
-| 04  | Algorithms & Problem-Solving Level 1 Solutions        | [Open](./04-Algorithms-Problem-Solving-Level1-Solutions) |
-| 05  | Algorithms & Problem-Solving Level 2                  | [Open](./05-Algorithms-Problem-Solving-Level2) |
-| 06  | Introduction to Programming Using C++ Level 2         | [Open](./06-Programming-Using-Cpp-Level2) |
-| 07  | Algorithms & Problem Solving Level 3                  | [Open](./07-Algorithms-Problem-Solving-Level3) |
-| 08  | Algorithms & Problem Solving Level 4                  | [Open](./08-Algorithms-Problem-Solving-Level4) |
-| 09  | Foundations Level 2                                   | [Open](./09-Foundations-Level2) |
-| 10  | OOP as it Should Be (Concepts)                        | [Open](./10-OOP-As-It-Should-Be-Concepts) |
-| 11  | OOP as it Should Be (Applications)                    | [Open](./11-OOP-As-It-Should-Be-Applications) |
-| 12  | Data Structures - Level 1                             | [Open](./12-Data-Structures-Level1) |
-| 13  | Algorithms & Problem Solving Level 5                  | [Open](./13-Algorithms-Problem-Solving-Level5) |
-| 14  | C# - Level 1                                          | [Open](./14-CSharp-Level1) |
-| 15  | Database Level 1 - SQL (Concepts and Practice)        | [Open](./15-Database-Level1-SQL) |
-| 16  | OOP As It Should Be In C#                             | [Open](./16-OOP-In-CSharp) |
-| 17  | Database - SQL (Projects & Practice)                  | [Open](./17-Database-SQL-Projects) |
-| 18  | C# & Database Connectivity                            | [Open](./18-CSharp-Database-Connectivity) |
-| 19  | Full Real Project                                     | [Open](./19-Full-Real-Project) |
-| 20  | C# Programming Level 2                                | [Open](./20-CSharp-Level2) |
-| 21  | Database Level 2 - Concepts & T-SQL                   | [Open](./21-Database-Level2-TSQL) |
-| 22  | Data Structures Level 2 in C#                         | [Open](./22-Data-Structures-Level2-CSharp) |
-| 23  | Algorithms Level 6                                    | [Open](./23-Algorithms-Level6) |
-| 24  | Windows Services                                      | [Open](./24-Windows-Services) |
+| #   | Course Title                                | View |
+|-----|---------------------------------------------|------|
+| 01  | Programming Foundations - Level 1           | [Open](./01-Programming-Foundations-Level1) |
+| 02  | Programming Foundations - Level 2           | [Open](./02-Programming-Foundations-Level2) |
+| 03  | Programming Using C++ - Level 1             | [Open](./03-Programming-Using-Cpp-Level1) |
+| 04  | Programming Using C++ - Level 2             | [Open](./04-Programming-Using-Cpp-Level2) |
+| 05  | Programming Using C++ - Level 3             | [Open](./05-Programming-Using-Cpp-Level3) |
+| 06  | Programming Using C++ - Level 4             | [Open](./06-Programming-Using-Cpp-Level4) |
+| 07  | Programming Using C++ - Level 5             | [Open](./07-Programming-Using-Cpp-Level5) |
+| 08  | Object-Oriented Programming - Level 1       | [Open](./08-Object-Oriented-Programming-Level1) |
+| 09  | Object-Oriented Programming - Level 2       | [Open](./09-Object-Oriented-Programming-Level2) |
+| 10  | Object-Oriented Programming - Level 3       | [Open](./10-Object-Oriented-Programming-Level3) |
+| 11  | Object-Oriented Programming - Level 4       | [Open](./11-Object-Oriented-Programming-Level4) |
+| 12  | Problem-Solving Techniques - Level 1        | [Open](./12-Problem-Solving-Techniques-Level1) |
+| 13  | Problem-Solving Techniques - Level 2        | [Open](./13-Problem-Solving-Techniques-Level2) |
+| 14  | Problem-Solving Techniques - Level 3        | [Open](./14-Problem-Solving-Techniques-Level3) |
+| 15  | Problem-Solving Techniques - Level 4        | [Open](./15-Problem-Solving-Techniques-Level4) |
+| 16  | Data Structures - Level 1                   | [Open](./16-Data-Structures-Level1) |
+| 17  | Data Structures - Level 2                   | [Open](./17-Data-Structures-Level2) |
+| 18  | Data Structures - Level 3                   | [Open](./18-Data-Structures-Level3) |
+| 19  | Data Structures - Level 4                   | [Open](./19-Data-Structures-Level4) |
+| 20  | Algorithms - Level 1                        | [Open](./20-Algorithms-Level1) |
+| 21  | Algorithms - Level 2                        | [Open](./21-Algorithms-Level2) |
+| 22  | Algorithms - Level 3                        | [Open](./22-Algorithms-Level3) |
+| 23  | Algorithms - Level 4                        | [Open](./23-Algorithms-Level4) |
+| 24  | Database - Level 1                          | [Open](./24-Database-Level1) |
 
-*(Click on any link to navigate to that course folder.)*
+*(Click any link to open that course folder on GitHub.)*
 
 ---
 
 ## 📂 Repo Structure
-
-
-
-## 🗂 Repo Structure
