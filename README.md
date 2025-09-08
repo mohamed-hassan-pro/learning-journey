@@ -21,7 +21,7 @@ It contains **24 structured courses** that take me step by step from basics to a
 | #   | Course Title                                         | View |
 |-----|------------------------------------------------------|------|
 | 01  | Programming Using C++ – Level 1                      | [Open](./01-Programming-Using-Cpp-Level1) |
-| 02  | Algorithms & Problem-Solving Level 1 Solutions       | [Open](./02-Algorithms-Problem-Solving-Level1) |
+| 02  | Algorithms & Problem-Solving Level 1                 | [Open](./02-Algorithms-Problem-Solving-Level1) |
 | 03  | Algorithms & Problem-Solving Level 2                 | [Open](./03-Algorithms-Problem-Solving-Level2) |
 | 04  | Introduction to Programming Using C++ Level 2        | [Open](./04-Programming-Using-Cpp-Level2) |
 | 05  | Algorithms & Problem Solving Level 3                 | [Open](./05-Algorithms-Problem-Solving-Level3) |
