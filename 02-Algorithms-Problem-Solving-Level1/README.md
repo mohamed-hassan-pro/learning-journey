@@ -16,7 +16,7 @@ Each exercise sharpened my ability to:
 |-----------|----------|
 | 14 | [Problem_14_Swap_Numbers.cpp](./Problem_14_Swap_Numbers.cpp) |
 | 15 | [Problem_15_Rectangle_Area.cpp](./Problem_15_Rectangle_Area.cpp) |
-| 16 | [Problem_16_Rectangle_Area_Through_Diagonal_and_Side_Area.cpp](./Problem_16_Rectangle_Area_Through_Diagonal_and_Side_Area.cpp) |
+| 16 | [Problem_16_Rectangle_Area_Through_Diagonal_and_Side_Area.cpp](./02-Algorithms-Problem-Solving-Level1/Problem_16_Rectangle_area_Through_Diagonal_and_Side_Area.cpp) |
 | 18 | [Problem_18_Circle_Area.cpp](./Problem_18_Circle_Area.cpp) |
 | 19 | [Problem_19_Circle_Area_Through_Diameter.cpp](./Problem_19_Circle_Area_Through_Diameter.cpp) |
 | 20 | [Problem_20_Circle_Area_Inscribed_in_a_Square.cpp](./Problem_20_Circle_Area_Inscribed_in_a_Square.cpp) |
