@@ -1,7 +1,12 @@
-# 02 - Programming Foundations – Level 2
+# 02 – Algorithms & Problem-Solving Level 1
 
 **Course Overview:**  
-In this second level of the "Programming Foundations" course, I enhanced my grasp of core programming logic by implementing a variety of exercises focused on geometry and arithmetic. These problems helped me strengthen my understanding of conditional logic, mathematical operations, and modular coding practices.
+This course marks the **first step in structured problem-solving**.  
+Here, I worked on a collection of beginner-friendly problems covering **geometry, arithmetic, and logical reasoning**.  
+Each exercise sharpened my ability to:  
+- Break problems into smaller steps.  
+- Apply conditional logic and mathematical operations.  
+- Write clean and modular C++ code.  
 
 ---
 
@@ -20,10 +25,3 @@ In this second level of the "Programming Foundations" course, I enhanced my gras
 | 23 | [Problem_23_Circle_Area_Circle_Described_Around_an_Arbitrary_Triangle.cpp](./Problem_23_Circle_Area_Circle_Described_Around_an_Arbitrary_Triangle.cpp) |
 
 ---
-
-##  How to Run (C++)  
-To compile and run any of these programs from terminal:
-
-```bash
-g++ -std=c++17 Problem_20_Circle_Area_Inscribed_in_a_Square.cpp -o Problem20
-./Problem20
