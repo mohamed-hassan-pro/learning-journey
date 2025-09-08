@@ -16,32 +16,32 @@ It contains **24 structured courses** that take me step by step from basics to a
 
 ## 📘 Course List & Navigation
 
-| #   | Course Title                                | View |
-|-----|---------------------------------------------|------|
-| 01  | Programming Foundations - Level 1           | [Open](./01-Programming-Foundations-Level1) |
-| 02  | Programming Foundations - Level 2           | [Open](./02-Programming-Foundations-Level2) |
-| 03  | Programming Using C++ - Level 1             | [Open](./03-Programming-Using-Cpp-Level1) |
-| 04  | Programming Using C++ - Level 2             | [Open](./04-Programming-Using-Cpp-Level2) |
-| 05  | Programming Using C++ - Level 3             | [Open](./05-Programming-Using-Cpp-Level3) |
-| 06  | Programming Using C++ - Level 4             | [Open](./06-Programming-Using-Cpp-Level4) |
-| 07  | Programming Using C++ - Level 5             | [Open](./07-Programming-Using-Cpp-Level5) |
-| 08  | Object-Oriented Programming - Level 1       | [Open](./08-Object-Oriented-Programming-Level1) |
-| 09  | Object-Oriented Programming - Level 2       | [Open](./09-Object-Oriented-Programming-Level2) |
-| 10  | Object-Oriented Programming - Level 3       | [Open](./10-Object-Oriented-Programming-Level3) |
-| 11  | Object-Oriented Programming - Level 4       | [Open](./11-Object-Oriented-Programming-Level4) |
-| 12  | Problem-Solving Techniques - Level 1        | [Open](./12-Problem-Solving-Techniques-Level1) |
-| 13  | Problem-Solving Techniques - Level 2        | [Open](./13-Problem-Solving-Techniques-Level2) |
-| 14  | Problem-Solving Techniques - Level 3        | [Open](./14-Problem-Solving-Techniques-Level3) |
-| 15  | Problem-Solving Techniques - Level 4        | [Open](./15-Problem-Solving-Techniques-Level4) |
-| 16  | Data Structures - Level 1                   | [Open](./16-Data-Structures-Level1) |
-| 17  | Data Structures - Level 2                   | [Open](./17-Data-Structures-Level2) |
-| 18  | Data Structures - Level 3                   | [Open](./18-Data-Structures-Level3) |
-| 19  | Data Structures - Level 4                   | [Open](./19-Data-Structures-Level4) |
-| 20  | Algorithms - Level 1                        | [Open](./20-Algorithms-Level1) |
-| 21  | Algorithms - Level 2                        | [Open](./21-Algorithms-Level2) |
-| 22  | Algorithms - Level 3                        | [Open](./22-Algorithms-Level3) |
-| 23  | Algorithms - Level 4                        | [Open](./23-Algorithms-Level4) |
-| 24  | Database - Level 1                          | [Open](./24-Database-Level1) |
+##  Course List & Navigation
+
+| #   | Course Title                                         | View |
+|-----|------------------------------------------------------|------|
+| 01  | Programming Using C++ – Level 1                      | [Open](./01-Programming-Using-Cpp-Level1) |
+| 02  | Algorithms & Problem-Solving Level 1 Solutions       | [Open](./02-Algorithms-Problem-Solving-Level1-Solutions) |
+| 03  | Algorithms & Problem-Solving Level 2                 | [Open](./03-Algorithms-Problem-Solving-Level2) |
+| 04  | Introduction to Programming Using C++ Level 2        | [Open](./04-Programming-Using-Cpp-Level2) |
+| 05  | Algorithms & Problem Solving Level 3                 | [Open](./05-Algorithms-Problem-Solving-Level3) |
+| 06  | Algorithms & Problem Solving Level 4                 | [Open](./06-Algorithms-Problem-Solving-Level4) |
+| 07  | Foundations Level 2                                  | [Open](./07-Foundations-Level2) |
+| 08  | OOP as it Should Be (Concepts)                       | [Open](./08-OOP-As-It-Should-Be-Concepts) |
+| 09  | OOP as it Should Be (Applications)                   | [Open](./09-OOP-As-It-Should-Be-Applications) |
+| 10  | Data Structures – Level 1                            | [Open](./10-Data-Structures-Level1) |
+| 11  | Algorithms & Problem Solving Level 5                 | [Open](./11-Algorithms-Problem-Solving-Level5) |
+| 12  | C# – Level 1                                          | [Open](./12-CSharp-Level1) |
+| 13  | Database Level 1 – SQL (Concepts and Practice)       | [Open](./13-Database-Level1-SQL) |
+| 14  | OOP As It Should Be In C#                            | [Open](./14-OOP-In-CSharp) |
+| 15  | Database – SQL (Projects & Practice)                 | [Open](./15-Database-SQL-Projects) |
+| 16  | C# & Database Connectivity                           | [Open](./16-CSharp-Database-Connectivity) |
+| 17  | Full Real Project                                    | [Open](./17-Full-Real-Project) |
+| 18  | C# Programming Level 2                               | [Open](./18-CSharp-Level2) |
+| 19  | Database Level 2 – Concepts & T-SQL                  | [Open](./19-Database-Level2-TSQL) |
+| 20  | Data Structures Level 2 in C#                        | [Open](./20-Data-Structures-Level2-CSharp) |
+| 21  | Algorithms Level 6                                   | [Open](./21-Algorithms-Level6) |
+| 22  | Windows Services                                     | [Open](./22-Windows-Services) |
 
 *(Click any link to open that course folder on GitHub.)*
 
