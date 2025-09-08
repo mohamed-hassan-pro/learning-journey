@@ -42,6 +42,8 @@ It contains **24 structured courses** that take me step by step from basics to a
 | 20  | Data Structures Level 2 in C#                        | [Open](./20-Data-Structures-Level2-CSharp) |
 | 21  | Algorithms Level 6                                   | [Open](./21-Algorithms-Level6) |
 | 22  | Windows Services                                     | [Open](./22-Windows-Services) |
+| 23  | Algorithms Level 6                                   | [Open](./23-Algorithms-Level6) |
+| 24  | Windows Services                                     | [Open](./24-Windows-Services) |
 
 *(Click any link to open that course folder on GitHub.)*
 
