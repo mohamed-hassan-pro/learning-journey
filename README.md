@@ -12,7 +12,7 @@ It contains **24 structured courses** that take me step by step from basics to a
 
 | #  | Course Title                                    | Description                                         | Folder |
 |----|------------------------------------------------|-----------------------------------------------------|--------|
-| 01 | Programming Using C++ – Level 1                | Basics of C++: input/output, strings, variables.    | [View](./01-ProgrammingFoundations-Level1) |
+| 01 | Programming Using C++ – Level 1                | Basics of C++: input/output, strings, variables.    | [View](./01%20-%20Programming%20Foundations%20-%20Level%201) |
 | 02 | Programming Using C++ – Level 2                | Deeper into loops, conditions, functions.           | [View](./02-cpp-level-2) |
 | 03 | Programming Using C++ – Level 3                | Arrays, strings, more structured programs.          | [View](./03-cpp-level-3) |
 | 04 | Algorithms & Problem Solving – Level 1         | Introduction to problem solving & structured logic. | [View](./04-algorithms-level-1) |
