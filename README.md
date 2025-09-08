@@ -6,6 +6,14 @@ It contains **24 structured courses** that take me step by step from basics to a
 
 ---
 
+## 🏅 Badges
+
+![GitHub last commit](https://img.shields.io/github/last-commit/mohamed-hassan-pro/learning-journey)
+![GitHub repo size](https://img.shields.io/github/repo-size/mohamed-hassan-pro/learning-journey)  
+![GitHub top language](https://img.shields.io/github/languages/top/mohamed-hassan-pro/learning-journey)
+
+---
+
 ## 📘 Course List & Navigation
 
 | #   | Course Title                                | View |
@@ -39,4 +47,23 @@ It contains **24 structured courses** that take me step by step from basics to a
 
 ---
 
+## 📊 Progress Tracker
+
+| Course | Status |
+|--------|---------|
+| 01 - Programming Foundations Level 1 | ✅ Done |
+| 02 - Programming Foundations Level 2 | ✅ Done |
+| 03 - Programming Using C++ Level 1   | ⏳ In Progress |
+| 04 - Programming Using C++ Level 2   | ❌ Not Started |
+| ... | ... |
+
+---
+
 ## 📂 Repo Structure
+
+Each course has its own folder with:
+- 📄 `README.md` → course overview, notes, tasks.
+- 💻 `.cpp` files → exercises & solutions.
+- 📦 Projects (if any).
+
+---
