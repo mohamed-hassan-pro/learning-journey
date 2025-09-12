@@ -14,6 +14,18 @@ It contains **24 structured courses** that take me step by step from basics to a
 
 ---
 
+## 📊 Progress Tracker
+
+| Course | Status |
+|--------|---------|
+| 01 - Programming Foundations – Level 1                | ✅ Done |
+| 02 - Algorithms & Problem-Solving Level 1             | ✅ Done |
+| 03 - Programming Using C++ – Level 1                  | ⏳ In Progress |
+| 04 - Algorithms & Problem-Solving Level 1 Solutions   | ❌ Not Started |
+| ... | ... |
+
+---
+
 ## 📘 Course List & Navigation
 
 | #   | Course Title                                         | View |
@@ -44,18 +56,6 @@ It contains **24 structured courses** that take me step by step from basics to a
 | 24  | Windows Services                                     | [Open](./24-Windows-Services) |
 
 *(Click any link to open that course folder on GitHub.)*
-
----
-
-## 📊 Progress Tracker
-
-| Course | Status |
-|--------|---------|
-| 01 - Programming Foundations – Level 1                | ✅ Done |
-| 02 - Algorithms & Problem-Solving Level 1             | ✅ Done |
-| 03 - Programming Using C++ – Level 1                  | ⏳ In Progress |
-| 04 - Algorithms & Problem-Solving Level 1 Solutions   | ❌ Not Started |
-| ... | ... |
 
 ---
 
