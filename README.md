@@ -1,69 +1,44 @@
-# 🚀 Learning Journey — Dr. Abu Hadhoud’s 24-Course Roadmap
+# My Software Engineering Journey (2025-2026)
 
-Welcome! 👋  
-This repository documents my complete programming roadmap following **Dr. Mohamed Abou Hadhoud** on [ProgrammingAdvices](https://programmingadvices.com/p/roadmap).  
-It contains **24 structured courses** that take me step by step from basics to advanced problem solving and real projects.
+Welcome to the repository for my dedicated, one-year learning journey, which will conclude at the end of **September 2026**. This documents my path to building a powerful foundation in computer science and software engineering.
 
----
+While this repository covers my core curriculum, it's just one piece of the puzzle. In parallel, I am honing my mobile development skills (Android with Kotlin) through the **Digital Egypt Pioneers Initiative**. I will be sharing my progress and key learnings from that experience on my LinkedIn profile, so be sure to **[follow me there!]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/mohamed-hassan-pro/))**. Other projects will be shared in separate repositories.
 
-## 🏅 Badges
+The comprehensive curriculum by Dr. Mohamed Abou Hadhoud on the [ProgrammingAdvices](https://programmingadvices.com/p/roadmap) platform **serves as the foundational backbone of my roadmap**. This plan is further **enriched with a variety of external courses** and specialized learning materials:
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mohamed-hassan-pro/learning-journey)
-![GitHub repo size](https://img.shields.io/github/repo-size/mohamed-hassan-pro/learning-journey)  
-![GitHub top language](https://img.shields.io/github/languages/top/mohamed-hassan-pro/learning-journey)
+### Priority 1: Competitive Programming & Algorithmic Excellence
 
----
+My primary focus is to build deep expertise in preparation for competitive programming. My ambition is to compete in the **ECPC (Egyptian Collegiate Programming Contest)** next year, with the ultimate goal of qualifying for the **ACPC (Africa and Arab Collegiate Programming Contest)**.
 
-## 📊 Progress Tracker
+To achieve this, my focus will be on the following core areas:
+* C++
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* Problem Solving
 
-| Course | Status |
-|--------|---------|
-| 01 - Programming Foundations – Level 1                | ✅ Done |
-| 02 - Algorithms & Problem-Solving Level 1             | ✅ Done |
-| 03 - Programming Using C++ – Level 1                  | ⏳ In Progress |
-| 04 - Algorithms & Problem-Solving Level 1 Solutions   | ❌ Not Started |
-| ... | ... |
+This track includes 13 essential courses, supplemented by a thorough study of **SOLID Principles**. I believe mastering these principles is crucial for evolving from a simple coder into a veteran software engineer.
 
----
+### Priority 2: Synergy with University Curriculum
 
-## 📘 Course List & Navigation
+As a second-year Computer Science (IT) student, this roadmap is also designed to align perfectly with my university studies. The courses I undertake here will deepen my understanding of topics I am studying academically, helping me excel and achieve the top rank in my class. These topics include:
+* C# and OOP
+* Databases
+* Windows Forms
+* Web Fundamentals (HTML, CSS, JavaScript)
 
-| #   | Course Title                                         | View |
-|-----|------------------------------------------------------|------|
-| 01  | Programming Foundations – Level 1                    | [Open](./01-Programming-Foundations-Level1) |
-| 02  | Algorithms & Problem-Solving Level 1                 | [Open](./02-Algorithms-Problem-Solving-Level1) |
-| 03  | Programming Using C++ – Level 1                      | [Open](./03-Programming-Using-Cpp-Level1) |
-| 04  | Algorithms & Problem-Solving Level 1 Solutions       | [Open](./04-Algorithms-Problem-Solving-Level1-Solutions) |
-| 05  | Algorithms & Problem-Solving Level 2                 | [Open](./05-Algorithms-Problem-Solving-Level2) |
-| 06  | Introduction to Programming Using C++ – Level 2      | [Open](./06-Programming-Using-Cpp-Level2) |
-| 07  | Algorithms & Problem Solving Level 3                 | [Open](./07-Algorithms-Problem-Solving-Level3) |
-| 08  | Algorithms & Problem Solving Level 4                 | [Open](./08-Algorithms-Problem-Solving-Level4) |
-| 09  | Foundations Level 2                                  | [Open](./09-Foundations-Level2) |
-| 10  | OOP as it Should Be (Concepts)                       | [Open](./10-OOP-As-It-Should-Be-Concepts) |
-| 11  | OOP as it Should Be (Applications)                   | [Open](./11-OOP-As-It-Should-Be-Applications) |
-| 12  | Data Structures – Level 1                            | [Open](./12-Data-Structures-Level1) |
-| 13  | Algorithms & Problem Solving Level 5                 | [Open](./13-Algorithms-Problem-Solving-Level5) |
-| 14  | C# – Level 1                                         | [Open](./14-CSharp-Level1) |
-| 15  | Database Level 1 – SQL (Concepts and Practice)       | [Open](./15-Database-Level1-SQL) |
-| 16  | OOP As It Should Be In C#                            | [Open](./16-OOP-In-CSharp) |
-| 17  | Database – SQL (Projects & Practice)                 | [Open](./17-Database-SQL-Projects) |
-| 18  | C# & Database Connectivity                           | [Open](./18-CSharp-Database-Connectivity) |
-| 19  | Full Real Project                                    | [Open](./19-Full-Real-Project) |
-| 20  | C# Programming Level 2                               | [Open](./20-CSharp-Level2) |
-| 21  | Database Level 2 – Concepts & T-SQL                  | [Open](./21-Database-Level2-TSQL) |
-| 22  | Data Structures Level 2 in C#                        | [Open](./22-Data-Structures-Level2-CSharp) |
-| 23  | Algorithms Level 6                                   | [Open](./23-Algorithms-Level6) |
-| 24  | Windows Services                                     | [Open](./24-Windows-Services) |
-
-*(Click any link to open that course folder on GitHub.)*
+Additionally, I will be studying **Java** through Eng. Adel Nassim's excellent course on YouTube.
 
 ---
 
-## 📂 Repo Structure
+## Explore The Journey: Code & Topics
 
-Each course has its own folder with:
-- 📄 `README.md` → course overview, notes, tasks.
-- 💻 `.cpp` files → exercises & solutions.
-- 📦 Projects (if any).
+This repository will be updated regularly. You can explore my code, notes, and what I've learned in each topic by navigating to the relevant folder below.
 
----
+* **[➡️ Object-Oriented Programming (C++)](./OOP_CPP)**
+* **[➡️ Data Structures (C++)](./DS_CPP)**
+* **[➡️ Algorithms & Problem Solving (C++)](./Algorithms_CPP)**
+* **[➡️ SOLID Principles](./Folder-Name-For-SOLID)**
+* **[➡️ C#](./Folder-Name-For-CSharp)**
+* **[➡️ Databases](./Folder-Name-For-Databases)**
+* **[➡️ Web Fundamentals](./Folder-Name-For-Web)**
+* **[➡️ Java](./Folder-Name-For-Java)**
