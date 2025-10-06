@@ -7,3 +7,5 @@ Each exercise sharpened my ability to:
 - Break problems into smaller steps.  
 - Apply conditional logic and mathematical operations.  
 - Write clean and modular C++ code.  
+
+---
