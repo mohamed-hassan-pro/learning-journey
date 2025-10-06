@@ -34,12 +34,14 @@ Additionally, I will be studying **Java** through Eng. Adel Nassim's excellent c
 
 This repository will be updated regularly. You can explore my code, notes, and what I've learned in each topic by navigating to the relevant folder below.
 
-* **[➡️ Object-Oriented Programming (C++)](./OOP_CPP)**
-* **[➡️ Data Structures (C++)](./DS_CPP)**
-* **[➡️ Algorithms & Problem Solving (C++)](./Algorithms_CPP)**
-* **[➡️ SOLID Principles](./Folder-Name-For-SOLID)**
-* **[➡️ C#](./Folder-Name-For-CSharp)**
-* **[➡️ Databases](./Folder-Name-For-Databases)**
-* **[➡️ Web Fundamentals](./Folder-Name-For-Web)**
-* **[➡️ Java](./Folder-Name-For-Java)**
-* **[➡️ Java](./Folder-Name-For-Java)**
+### 🚀 C++ Learning Path
+* **[➡️ C++ Core Concepts & Roadmap](./CPP)** - *This is the main entry for all C++ topics: Basics, OOP, Data Structures, and the five Algorithm Levels.*
+
+### 🧠 Competitive Programming
+* **[Codeforces Solutions](./Problem_Solving/Codeforces)**
+* **[LeetCode Solutions](./Problem_Solving/LeetCode)**
+
+### 🛠️ Other Technologies & Concepts
+* **[➡️ C# ](./CSharp)**
+* **[➡️ Databases](./Databases)**
+* **[➡️ SOLID Principles](./Docs/SOLID_Principles.md)**
