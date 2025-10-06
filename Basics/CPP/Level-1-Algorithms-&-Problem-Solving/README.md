@@ -1,4 +1,4 @@
-# 02 – Algorithms & Problem-Solving Level 1
+Level 1 Algorithms & Problem-Solving
 
 **Course Overview:**  
 This course marks the **first step in structured problem-solving**.  
