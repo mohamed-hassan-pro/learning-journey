@@ -20,8 +20,8 @@ It contains **24 structured courses** that take me step by step from basics to a
 |--------|---------|
 | 01 - Programming Foundations – Level 1                | ✅ Done |
 | 02 - Algorithms & Problem-Solving Level 1             | ✅ Done |
-| 03 - Programming Using C++ – Level 1                  | ⏳ In Progress |
-| 04 - Algorithms & Problem-Solving Level 1 Solutions   | ❌ Not Started |
+| 03 - Programming Using C++ – Level 1                  | ✅ Done |
+| 04 - Algorithms & Problem-Solving Level 1 Solutions   | ⏳ In Progress |
 | ... | ... |
 
 ---
