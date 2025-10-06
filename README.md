@@ -41,8 +41,5 @@ This repository will be updated regularly. You can explore my code, notes, and w
 * **[➡️ C#](./Folder-Name-For-CSharp)**
 * **[➡️ Databases](./Folder-Name-For-Databases)**
 * **[➡️ Web Fundamentals](./Folder-Name-For-Web)**
-<<<<<<< HEAD
 * **[➡️ Java](./Folder-Name-For-Java)**
-=======
 * **[➡️ Java](./Folder-Name-For-Java)**
->>>>>>> d3398334e7593942452dacbe50fef84ea2656fe7
