@@ -43,5 +43,6 @@ This repository will be updated regularly. You can explore my code, notes, and w
 
 ### 🛠️ Other Technologies & Concepts
 * **[➡️ C# ](./CSharp)**
+* **[➡️ Web ](./Web)**
 * **[➡️ Databases](./Databases)**
 * **[➡️ SOLID Principles](./Docs/SOLID_Principles.md)**
